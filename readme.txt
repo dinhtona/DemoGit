@@ -5,3 +5,13 @@ git remote add origin https://github.com/dinhtona/DemoGit.git //Thằng này là
 git commit -m "first commit"
 git push -u origin master
 
+////==================
+Tạo ra file ignore, chứa tên những folder ra không đưa lên server
+
+type > .gitignore
+
+
+//=====================
+udpate
+
+git add demo.txt
