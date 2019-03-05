@@ -1,0 +1,9 @@
+h1{
+    color:red;
+}
+div{
+    width:200px;
+    height: 200px;
+    background: url(../img/14225448_325092844509206_3610244993579808418_n.jpg) no-repeat center center;
+    background-size: cover;
+}
